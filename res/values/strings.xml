@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="bw">			   Bandwidth *</string>
+    <string name="mdrCalculate">   Calculate MDR</string>
+    <string name="bwHint">		   Enter BW in Hertz</string>
+    <string name="snrHint">		   Enter SNR in decibels</string>
+    <string name="mdrFormat">	   Maximum Data Rate is: %1$.2f bps</string>
+    <string name="reset">		   Reset</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">	   Shannon\'s Theorem</string>
+    <string name="snr">			   Signal-to-Noise Ratio *</string>
+
+</resources>
